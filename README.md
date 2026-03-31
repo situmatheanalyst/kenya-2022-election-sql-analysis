@@ -1,5 +1,5 @@
 # kenya-2022-election-sql-analysis
-# 🇰🇪 A Statistical Analysis of the 2022 Kenyan Presidential Election
+# A Statistical Analysis of the 2022 Kenyan Presidential Election
 
 ## 🔷 Executive Summary
 The 2022 Kenyan Presidential Election was highly competitive between **William Ruto** and **Raila Odinga**.
